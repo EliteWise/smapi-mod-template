@@ -1,0 +1,10 @@
+{
+  "Name": "Mod Name",
+  "Author": "EliteWise",
+  "Version": "1.1.0",
+  "Description": "Description",
+  "UniqueID": "EliteWise.ModName",
+  "EntryDll": "ModName.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
